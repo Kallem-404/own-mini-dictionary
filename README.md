@@ -1,0 +1,1 @@
+# own-mini-dictionary
